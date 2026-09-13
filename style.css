@@ -8,8 +8,8 @@ body {
   color: #253238;
 }
 header {
-  background: linear-gradient(120deg, #c74b2c, #c74b2c);
-  color: #fff;
+  background: linear-gradient(120deg, #C92323, #1D3557);
+  color: #fdfcfb;
   padding: 60px 20px;
   text-align: center;
 }
@@ -19,7 +19,7 @@ main {
   padding: 40px 20px;
 }
 section {
-  background: #fff;
+  background: #ffffff;
   border-radius: 12px;
   padding: 24px;
   margin-bottom: 24px;
@@ -32,6 +32,6 @@ section h2 {
 footer {
   padding: 24px;
   text-align: center;
-  background: #71bfd3;
+  background: #C92323;
   font-size: 0.9rem;
 }
